@@ -1,4 +1,3 @@
-/* General */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -7,13 +6,13 @@ body {
   color: #333;
 }
 
-/* Contenedor principal */
+
 .App {
   text-align: center;
   padding: 20px;
 }
 
-/* Navbar */
+
 .navbar {
   background-color: #007bff;
   color: white;
@@ -28,7 +27,6 @@ body {
   font-weight: bold;
 }
 
-/* Lista de empresas */
 ul {
   list-style: none;
   padding: 0;
@@ -52,7 +50,6 @@ li:hover {
   transform: scale(1.05);
 }
 
-/* Imágenes de empresas y tecnologías */
 li img {
   width: 50px;
   height: 50px;
@@ -82,7 +79,7 @@ a:hover {
   margin: 20px auto;
 }
 
-/* Imagen grande en la página de detalles */
+/* Imagen grande  la página de detalles */
 .company-page img, .tech-page img {
   width: 100px;
   height: auto;
